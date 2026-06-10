@@ -99,7 +99,7 @@ This project provides a centralized dashboard to help business stakeholders moni
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ### Customer Analytics
 ![Customer Analytics](Screenshots/Customer_Analytics.png)
